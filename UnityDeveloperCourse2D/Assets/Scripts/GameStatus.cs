@@ -6,9 +6,10 @@ using TMPro;
 public class GameStatus : MonoBehaviour
 {
     
-    [Range(0.1f,1f)] [SerializeField] float gameSpeed = 1f;
+    [Range(0.1f,10f)] [SerializeField] float gameSpeed = 1f;
     [SerializeField] int pointsPerBlock = 83;
-    [SerializeField] TextMeshProUGUI scoreText; 
+    [SerializeField] TextMeshProUGUI scoreText;
+    [SerializeField] bool isAutoPlayEnabled;
 
 
     [SerializeField] int currentScore = 0;
@@ -49,4 +50,8 @@ public class GameStatus : MonoBehaviour
         Destroy(gameObject);
     }
 
+    public bool IsAutoPlayEnabled()
+    {
+        return isAutoPlayEnabled;
+    }
 }
