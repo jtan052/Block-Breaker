@@ -139,8 +139,9 @@ MonoBehaviour:
   - {fileID: 8300000, guid: f6d04c4ea9cd0d048ab4b58b4db9c00f, type: 3}
   - {fileID: 8300000, guid: d072851753f9bd6458993482dff8916a, type: 3}
   paddle1: {fileID: 0}
-  xPush: 2
+  xPush: 0
   yPush: 15
+  randomFactor: 0.1
 --- !u!82 &1039627073670993949
 AudioSource:
   m_ObjectHideFlags: 0
