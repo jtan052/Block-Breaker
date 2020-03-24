@@ -1,5 +1,5 @@
 # Block-Breaker
-A repository containing the products of videogames and tutorials created in the "Complete C# Unity Developer 2D: Learn to Code Making Games" course  Created by Ben Tristem, GameDev.tv Team, Rick Davidson
+A repository containing the product of Section 5 in the "Complete C# Unity Developer 2D: Learn to Code Making Games" course  Created by Ben Tristem, GameDev.tv Team, Rick Davidson
 Block Breaker is a classic game in which the player bounces a ball with a mouse-controlled paddle in order to break blocks laid about in
 various assortments.
 
@@ -11,4 +11,4 @@ destruction a particle effect will take place. Destroyed blocks will add to a di
 Use your mouse to control the paddle and rebound the ball back towards the blocks advancing when all blocks on that level are destroyed.
 In the case that the ball is not caught and passes through a lower threshold the game will end.
 
-To run this game, see the folder BlockBreakerPCBuild and run the application!
+To run this game, see the folder BlockBreakerPCBuild and run the application UnityDeveloperCourse2D!
