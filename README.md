@@ -12,3 +12,5 @@ Use your mouse to control the paddle and rebound the ball back towards the block
 In the case that the ball is not caught and passes through a lower threshold the game will end.
 
 To run this game, see the folder BlockBreakerPCBuild and run the application UnityDeveloperCourse2D!
+
+You can watch a video demonstration here: https://youtu.be/R9vTBLFxJY4
